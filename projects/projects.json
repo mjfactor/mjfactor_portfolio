@@ -6,7 +6,27 @@
     "category": "swing",
     "links": {
       "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "code": ""
+    }
+  },
+  {
+    "name": "SuperPOS",
+    "desc": "A simple yet powerful point of sale system built with Java and MySQL.",
+    "image": "superPOS",
+    "category": "swingb",
+    "links": {
+      "view": "https://luksogames.online",
+      "code": ""
+    }
+  },
+  {
+    "name": "SoftStore",
+    "desc": "an online store that sells software products",
+    "image": "softStore",
+    "category": "frontend",
+    "links": {
+      "view": "http://thefitnessavegym.oo.gd/",
+      "code": ""
     }
   }
 ]
