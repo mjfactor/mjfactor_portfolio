@@ -1,10 +1,10 @@
 [
 
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
-    "category": "mern",
+    "name": "Swing-Dashboard Project",
+    "desc": "A java swing based dashboard project which is collection of projects built on the java swing library.",
+    "image": "simpleDashboard",
+    "category": "swing",
     "links": {
       "view": "https://instagramernstack.herokuapp.com/",
       "code": "https://github.com/jigar-sable/instagram-mern"
