@@ -1,0 +1,64 @@
+[
+
+  {
+    "name": "Instagram MERN",
+    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Flipkart MERN",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  },
+  {
+    "name": "Flipkart PHP",
+    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  }
+
+]
