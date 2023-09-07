@@ -8,55 +8,5 @@
       "view": "https://instagramernstack.herokuapp.com/",
       "code": "https://github.com/jigar-sable/instagram-mern"
     }
-  },
-  {
-    "name": "Lukso RPG Website",
-    "desc": "Mata sa Mata offers a unique gaming experience that combines the excitement of combat and the lore of Philippine mythology.",
-    "image": "matasamata",
-    "category": "basicweb",
-    "links": {
-      "view": "https://luksogames.online",
-      "code": ""
-    }
-  },
-  {
-    "name": "The Fitness Ave. Gym",
-    "desc": "A simple yet fitness-friendly venue to fulfill your regular workout routines and helps you achieve",
-    "image": "gym",
-    "category": "basicweb",
-    "links": {
-      "view": "http://thefitnessavegym.oo.gd/",
-      "code": ""
-    }
-  },
-  {
-    "name": "Barangay Infortmation System",
-    "desc": "The Barangay Information System is a local system that can be accessed by two types of end user.",
-    "image": "pembo",
-    "category": "basicweb",
-    "links": {
-      "view": "",
-      "code": ""
-    }
-  },
-  {
-    "name": "Simple Calculator",
-    "desc": "SImple calculator",
-    "image": "calculator",
-    "category": "basicweb",
-    "links": {
-      "view": "https://imchristianvillanueva.github.io/calculator/",
-      "code": "https://github.com/ImChristianVillanueva/calculator"
-    }
-  },
-  {
-    "name": "Ecommerce Website",
-    "desc": "Fashion Ko To",
-    "image": "ecommerce",
-    "category": "basicweb",
-    "links": {
-      "view": "https://imchristianvillanueva.github.io/ecommerce.github.io/index.html",
-      "code": ""
-    }
   }
 ]
