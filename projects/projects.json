@@ -5,8 +5,8 @@
     "image": "simpleDashboard",
     "category": "swing",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": ""
+      "view": "",
+      "code": "https://github.com/mjfctor/java-dashboard-project"
     }
   },
   {
@@ -15,8 +15,8 @@
     "image": "superPOS",
     "category": "swingb",
     "links": {
-      "view": "https://luksogames.online",
-      "code": ""
+      "view": "",
+      "code": "https://github.com/mjfctor/super-pos"
     }
   },
   {
@@ -25,8 +25,8 @@
     "image": "softStore",
     "category": "frontend",
     "links": {
-      "view": "http://thefitnessavegym.oo.gd/",
-      "code": ""
+      "view": "https://mjfctor.github.io/softStore/",
+      "code": "https://github.com/mjfctor/softStore"
     }
   }
 ]
