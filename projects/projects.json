@@ -28,5 +28,26 @@
       "view": "https://mjfctor.github.io/softStore/",
       "code": "https://github.com/mjfctor/softStore"
     }
+  },
+  {
+    "name": "BetGame (CLI)",
+    "desc": "A command line interface with Database of various betting games built with python and MongoDB",
+    "image": "cli-betgame",
+    "category": "CLI",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/mjfctor/bettin-game.git"
+    }
+  },
+  {
+    "name": "Animal BLOG",
+    "desc": "A simple blog built about animals",
+    "image": "animal-blog",
+    "category": "web",
+    "links": {
+      "view": "https://animalblog.netlify.app/",
+      "code": "https://github.com/mjfctor/animal-blog.git"
+    }
   }
+
 ]
