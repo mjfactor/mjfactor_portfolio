@@ -48,6 +48,16 @@
       "view": "https://animalblog.netlify.app/",
       "code": "https://github.com/mjfctor/animal-blog.git"
     }
+  },
+  {
+    "name": "Weather App",
+    "desc": "A simple weather app built with vanilla javascript and openweathermap API",
+    "image": "weather-app",
+    "category": "static web",
+    "links": {
+      "view": "https://anongweather.netlify.app/",
+      "code": "https://github.com/mjfctor/weather-app.git"
+    }
   }
 
 ]
