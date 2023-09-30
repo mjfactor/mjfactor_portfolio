@@ -62,7 +62,7 @@
   {
     "name": "Simple todo app",
     "desc": "A simple todo app built with vanilla javascript",
-    "image": "weather-app",
+    "image": "todo-list",
     "category": "static web",
     "links": {
       "view": "https://gagawin.netlify.app/",
