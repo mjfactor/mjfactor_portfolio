@@ -58,6 +58,16 @@
       "view": "https://anongweather.netlify.app/",
       "code": "https://github.com/mjfctor/weather-app.git"
     }
+  },
+  {
+    "name": "Simple todo app",
+    "desc": "A simple todo app built with vanilla javascript",
+    "image": "weather-app",
+    "category": "static web",
+    "links": {
+      "view": "https://gagawin.netlify.app/",
+      "code": "https://github.com/mjfctor/todo-list"
+    }
   }
 
 ]
