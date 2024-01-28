@@ -68,6 +68,16 @@
       "view": "https://gagawin.netlify.app/",
       "code": "https://github.com/mjfctor/todo-list"
     }
+  },
+  {
+    "name": "GJ Stainless Inventory System",
+    "desc": "An Inventory system built with Java and MySQL for GJ Stainless",
+    "image": "gjstainless",
+    "category": "static web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/mjfctor/inventory"
+    }
   }
 
 ]
